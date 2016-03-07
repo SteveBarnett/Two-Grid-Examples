@@ -17,7 +17,7 @@ Have a look at [an example here](gridly.html), or [on JS Bin](https://jsbin.com/
 
 If you want something with more options and control, you could look at  of popular Front-end Framework, [Bootstrap](http://getbootstrap.com/). It has a lot of stuff in it, but for now we're just interested in the [the Grid section](http://getbootstrap.com/css/#grid).
 
-Have a look at [an example here](gridly.html), or [on JS Bin](https://jsbin.com/majaro/edit?html,css,output).
+Have a look at [an example here](bootstrap-grid.html), or [on JS Bin](https://jsbin.com/majaro/edit?html,css,output).
 
 ## But wait, there's more!
 
