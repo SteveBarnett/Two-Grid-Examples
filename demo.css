@@ -1,0 +1,22 @@
+.demo {
+  font-family: ubuntu, sans-serif;
+}
+
+.demo .row {
+    background-color: #3498db;
+}
+
+.demo .col {
+    padding: 5px;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    border: solid 1px #000;
+}
+
+.show-grid [class^=col-] {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #eee;
+    border: 1px solid #ddd;
+}
