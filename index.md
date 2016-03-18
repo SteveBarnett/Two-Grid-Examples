@@ -3,9 +3,14 @@ layout: single
 title: Index
 ---
 
-# Two-Grid-Examples
+# Two Grid Examples
 
-CSS layout is a bit complicated. There's a lot to learn, and different browsers can behave in vastly different ways. [CanIUse.com](http://caniuse.com/) is a very useful site that lets you check browser support for HTML, CSS, and JS features.
+CSS layout is a bit complicated. There's a lot to learn, and different browsers can behave in vastly different ways.
+
+* [Learn CSS Layout](http://learnlayout.com/) is a nice site that introduces the building blocks of CSS layout.
+* [CanIUse.com](http://caniuse.com/) is a very useful site that lets you check browser support for HTML, CSS, and JS features.
+
+Here are two existing layout systems that use a grid for page layout.
 
 ## Gridly
 
@@ -13,7 +18,7 @@ If you want a very lightweight grid, without much in the way of options, have a 
 
 Have a look at [an example here](gridly.html), or [on JS Bin](https://jsbin.com/wowisa/edit?html,css,output).
 
-## Bootstrap's Grid
+## Bootstrap
 
 If you want something with more options and control, you could look at  of popular Front-end Framework, [Bootstrap](http://getbootstrap.com/). It has a lot of stuff in it, but for now we're just interested in the [the Grid section](http://getbootstrap.com/css/#grid).
 
