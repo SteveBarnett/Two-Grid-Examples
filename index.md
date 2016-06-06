@@ -8,19 +8,19 @@ title: Index
 CSS layout is a bit complicated. There's a lot to learn, and different browsers can behave in vastly different ways.
 
 * [Learn CSS Layout](http://learnlayout.com/) is a nice site that introduces the building blocks of CSS layout.
-* [CanIUse.com](http://caniuse.com/) is a very useful site that lets you check browser support for HTML, CSS, and JS features.
+* [CanIUse.com](http://caniuse.com/) is a useful site that lets you check browser support for HTML, CSS, and JS features.
 
 Here are two existing layout systems that use a grid for page layout.
 
 ## Gridly
 
-If you want a very lightweight grid, without much in the way of options, have a look [Gridly](http://ionicabizau.github.io/gridly/example/). It uses Flexbox, so it won't work every browser. Here's the [browser support for Flexbox](http://caniuse.com/#feat=flexbox).
+If you want a lightweight grid, without much in the way of options, have a look [Gridly](http://ionicabizau.github.io/gridly/example/). It uses Flexbox, so it won't work every browser. Here's the [browser support for Flexbox](http://caniuse.com/#feat=flexbox).
 
 Have a look at [an example here](gridly.html), or [on JS Bin](https://jsbin.com/wowisa/edit?html,css,output).
 
 ## Bootstrap
 
-If you want something with more options and control, you could look at  of popular Front-end Framework, [Bootstrap](http://getbootstrap.com/). It has a lot of stuff in it, but for now we're just interested in the [the Grid section](http://getbootstrap.com/css/#grid).
+If you want something with more options and control, you could look at one of the more popular Front-end Frameworks: [Bootstrap](http://getbootstrap.com/). It has a lot of stuff in it, but for now we're only interested in the [the Grid section](http://getbootstrap.com/css/#grid).
 
 Have a look at [an example here](bootstrap-grid.html), or [on JS Bin](https://jsbin.com/majaro/edit?html,css,output).
 
